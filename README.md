@@ -19,7 +19,7 @@ The backend work includes writing the code for the Node.js server. Our app uses 
 ![image](https://user-images.githubusercontent.com/62594900/155007249-2016c9fb-9ca9-410c-bf4a-ff3ff1ec76cb.png)
 ![image](https://user-images.githubusercontent.com/62594900/155007254-531d6a11-971d-4956-b83c-88811807be3b.png)
 
-# Authors
+# Contributors
 - [@sauravshekharsingh](https://www.github.com/sauravshekharsingh)
 - [@aktamoli0910](https://github.com/aktamoli0910)
 - [@kartikey134](https://github.com/kartikey134)
