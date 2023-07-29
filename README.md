@@ -22,4 +22,4 @@ The backend work includes writing the code for the Node.js server. Our app uses 
 # Contributors
 - [@sauravshekharsingh](https://www.github.com/sauravshekharsingh)
 - [@aktamoli0910](https://github.com/aktamoli0910)
-- [@kartikey134](https://github.com/kartikey134)
+- [@kartikeyy31](https://github.com/kartikeyy31)
